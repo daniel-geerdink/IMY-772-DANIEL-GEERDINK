@@ -3,9 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@types/styled-components": "^5.1.34",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-scripts": "5.0.1"
+    "react-scripts": "5.0.1",
+    "react-toastify": "^11.0.5",
+    "styled-components": "^6.1.17"
   },
   "devDependencies": {
     "@babel/core": "^7.24.0",
