@@ -85,9 +85,8 @@ To get started with the calculator application, follow these steps:
 1. Go to AWS Console
 2. Click on your username (top right) → Security credentials
 3. Under "Access keys", click "Create access key"
-4. Choose "Command Line Interface (CLI)"
-5. Click "Create access key"
-6. **IMPORTANT**: Save both the Access Key ID and Secret Access Key immediately - you won't see the Secret Access Key again!
+4. Click "Create access key"
+5. **IMPORTANT**: Save both the Access Key ID and Secret Access Key immediately - you won't see the Secret Access Key again!
 
 ### 2. Configure AWS CLI
 1. Open PowerShell or Command Prompt
